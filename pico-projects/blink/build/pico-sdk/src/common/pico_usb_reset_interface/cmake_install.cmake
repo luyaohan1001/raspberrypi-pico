@@ -1,4 +1,4 @@
-# Install script for directory: /home/luyaohan1001/Projects/raspberrypi-pico/pico-sdk/src/common/pico_usb_reset_interface
+# Install script for directory: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/common/pico_usb_reset_interface
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

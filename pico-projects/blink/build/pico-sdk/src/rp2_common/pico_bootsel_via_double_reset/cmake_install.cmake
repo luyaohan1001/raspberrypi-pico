@@ -1,4 +1,4 @@
-# Install script for directory: /home/luyaohan1001/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_bootsel_via_double_reset
+# Install script for directory: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_bootsel_via_double_reset
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
