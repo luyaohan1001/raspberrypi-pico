@@ -12,7 +12,7 @@ if [[ ! -f pico_sdk_import.cmake ]]; then
 fi
 
 # Set environment variable for cmake build.
-export PICO_SDK_PATH=/home/pi/Projects/raspberrypi-pico/pico-sdk/
+export PICO_SDK_PATH=../../../pico-sdk
 
 # Get project name 
 dir=`pwd`

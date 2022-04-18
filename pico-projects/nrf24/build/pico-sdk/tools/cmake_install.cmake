@@ -1,4 +1,4 @@
-# Install script for directory: /home/pi/Projects/raspberrypi-pico/pico-sdk/tools
+# Install script for directory: /home/luyaohan1001/Projects/raspberrypi-pico/pico-sdk/tools
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

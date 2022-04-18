@@ -1,4 +1,4 @@
-# Install script for directory: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb
+# Install script for directory: /home/luyaohan1001/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
