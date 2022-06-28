@@ -1,4 +1,4 @@
-# Install script for directory: /home/pi/Projects/raspberrypi-pico/pico-sdk/tools/elf2uf2
+# Install script for directory: /home/luyaohan1001/Projects/raspberrypi-pico/pico-sdk/tools/elf2uf2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/elf2uf2/boot_uf2_headers/cmake_install.cmake")
+  include("/home/luyaohan1001/Projects/raspberrypi-pico/pico-projects/nrf24/build/elf2uf2/boot_uf2_headers/cmake_install.cmake")
 
 endif()
 
@@ -56,5 +56,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/elf2uf2/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/luyaohan1001/Projects/raspberrypi-pico/pico-projects/nrf24/build/elf2uf2/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

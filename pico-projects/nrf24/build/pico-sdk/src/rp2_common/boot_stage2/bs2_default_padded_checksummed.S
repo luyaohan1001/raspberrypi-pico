@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // Padded and checksummed version of: /home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+=======
+// Padded and checksummed version of: /home/luyaohan1001/Projects/raspberrypi-pico/pico-projects/nrf24/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+>>>>>>> 7a1ec2db2ccc539d0fbcd7f3040a0a020a8840fb
 
 .cpu cortex-m0plus
 .thumb
