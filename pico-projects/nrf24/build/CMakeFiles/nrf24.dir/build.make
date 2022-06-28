@@ -573,83 +573,18 @@ CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/p
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
 	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: CMakeFiles/nrf24.dir/flags.make
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj -c /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c
+CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: CMakeFiles/nrf24.dir/flags.make
+CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj -c /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c
 
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c > CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
+CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c > CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
 
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: CMakeFiles/nrf24.dir/flags.make
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj -c /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c > CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: CMakeFiles/nrf24.dir/flags.make
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj -c /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c > CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: CMakeFiles/nrf24.dir/flags.make
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj -c /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c > CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: CMakeFiles/nrf24.dir/flags.make
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj -c /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c > CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: CMakeFiles/nrf24.dir/flags.make
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj: /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj -c /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c > CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
-
-CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s"
-	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
+CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s"
+	/usr/bin/arm-none-eabi-gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c -o CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
 
 # Object files for target nrf24
 nrf24_OBJECTS = \
@@ -698,12 +633,7 @@ nrf24_OBJECTS = \
 "CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" \
 "CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj" \
 "CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj" \
-"CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj" \
-"CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj" \
-"CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj" \
-"CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj" \
-"CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj" \
-"CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
+"CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj"
 
 # External object files for target nrf24
 nrf24_EXTERNAL_OBJECTS =
@@ -753,16 +683,11 @@ nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/r
 nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
 nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
 nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
-nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
-nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+nrf24.elf: CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
 nrf24.elf: CMakeFiles/nrf24.dir/build.make
 nrf24.elf: pico-sdk/src/rp2_common/boot_stage2/bs2_default_padded_checksummed.S
 nrf24.elf: CMakeFiles/nrf24.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Linking CXX executable nrf24.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Linking CXX executable nrf24.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/nrf24.dir/link.txt --verbose=$(VERBOSE)
 	/usr/bin/arm-none-eabi-objcopy -Oihex /home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/nrf24.elf nrf24.hex
 	/usr/bin/arm-none-eabi-objcopy -Obinary /home/pi/Projects/raspberrypi-pico/pico-projects/nrf24/build/nrf24.elf nrf24.bin

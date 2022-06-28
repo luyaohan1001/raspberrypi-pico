@@ -294,10 +294,11 @@ int main() {
     bi_decl(bi_program_description("nrf24l01 sender program"));
 
     // enable uart
-    stdio_init_all();
-    printf("nrf24 init started.\n");
+    uart_init(uart0, 115200);
     // set SPI pin modes.
     // gpio_pins_initialize();
+    gpio_set_function(0, GPIO_FUNC_UART)
+    gpio_set_function(1, GPIO_FUNC_UART)
 
     // nrf24_poweron_self_test();
     
@@ -310,7 +311,8 @@ int main() {
 
     while(1) {
       // nrf24_keep_sending();
-      printf("nrf24 init started.\n");
+      // printf("nrf24 init started.\r\n");
+      uart_puts(uart0. "helloworld!\n");
       sleep_ms(1000);
       gpio_put(25, 0);
       sleep_ms(1000);

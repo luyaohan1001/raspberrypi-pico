@@ -500,33 +500,6 @@ home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_divider/divid
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
 .PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
 
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.obj
-
-# target to build an object file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.i: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.i
-
-# target to preprocess a source file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.s: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.s
-
-# target to generate assembly for a file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s
-
 home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
 
 .PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj
@@ -896,33 +869,6 @@ home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_double/double_v1_
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
 .PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
 
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj
-
-# target to build an object file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i
-
-# target to preprocess a source file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s
-
-# target to generate assembly for a file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s
-
 home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
 
 .PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj
@@ -1211,86 +1157,32 @@ home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 .PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s
 
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
 
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
-
-# target to build an object file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i
-
-# target to preprocess a source file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s
-
-# target to generate assembly for a file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj
+.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj
 
 # target to build an object file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
 
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
+home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
 
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i
-
-# target to preprocess a source file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s
-
-# target to generate assembly for a file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj
-
-# target to build an object file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i
+.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i
 
 # target to preprocess a source file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i
+home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
+.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.i
 
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
 
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s
+.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s
 
 # target to generate assembly for a file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s
+home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
+.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.s
 
 home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
 
@@ -1318,33 +1210,6 @@ home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s: 
 home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
 .PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj
-
-# target to build an object file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
-
-# target to preprocess a source file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i
-
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s: home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
-
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
-
-# target to generate assembly for a file
-home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/nrf24.dir/build.make CMakeFiles/nrf24.dir/home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
-.PHONY : home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s
 
 nrf24.obj: nrf24.c.obj
 
@@ -1420,9 +1285,6 @@ help:
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.i"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.s"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_divider/divider.obj"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.obj"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.i"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_flash/flash.s"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.i"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.s"
@@ -1464,9 +1326,6 @@ help:
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_double/double_math.i"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_double/double_math.s"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.obj"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.obj"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.i"
@@ -1499,21 +1358,12 @@ help:
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.obj"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.i"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio/stdio.s"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s"
+	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.obj"
+	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.i"
+	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.s"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.i"
 	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i"
-	@echo "... home/pi/Projects/raspberrypi-pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s"
 	@echo "... nrf24.obj"
 	@echo "... nrf24.i"
 	@echo "... nrf24.s"
